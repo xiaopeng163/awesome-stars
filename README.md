@@ -17,6 +17,8 @@ awesome-stars
 * [rest-sphinx-memo](https://github.com/marczz/rest-sphinx-memo) - sphinx demo
 * [pylimit](https://github.com/MashiMaroLjc/pylimit) - 给python的动态特性加上可选的约束
 * [kyro](https://github.com/kvogt/kyro) - BGP route optimizer
+* [libnmap](https://github.com/savon-noir/python-libnmap) - libnmap is a python library to run nmap scans, parse and diff scan results. It supports python 2.6 up to 3.4. It's wonderful.
+* [youtube-dl](https://github.com/rg3/youtube-dl) - Small command-line program to download videos from YouTube.com and other video sites
 
 ## Go
 
