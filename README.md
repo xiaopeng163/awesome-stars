@@ -5,6 +5,7 @@ awesome-stars
     - [Python](#python)
     - [Go](#go)
     - [Ruby](#ruby)
+    - [Git](#git)
 - [Others](#other-awesome-lists)
 
 ## Python
@@ -26,7 +27,9 @@ awesome-stars
 
 * [logstash](https://github.com/elastic/logstash) -  transport and process your logs, events, or other data
 
+## Git
 
+* [git-tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks. http://git.io/git-tips
 
 ## other-awesome-lists
 
