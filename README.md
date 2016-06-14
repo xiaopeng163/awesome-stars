@@ -34,3 +34,4 @@ awesome-stars
 ## other-awesome-lists
 
 * [Yang](https://github.com/YangModels/yang) - YANG modules from standards organizations such as the IETF, open source such as Open Daylight or vendor specific modules
+* [http-prompt](https://github.com/eliangcs/http-prompt) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
