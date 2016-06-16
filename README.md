@@ -6,6 +6,7 @@ awesome-stars
     - [Go](#go)
     - [Ruby](#ruby)
     - [Git](#git)
+    - [Training](#training)
 - [Others](#other-awesome-lists)
 
 ## Python
@@ -31,7 +32,12 @@ awesome-stars
 
 * [git-tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks. http://git.io/git-tips
 
+## Training
+
+* [FullStackDeveloperCourse](https://github.com/warmheartli/FullStackDeveloperCourse) - 教你成为全栈工程师
+
 ## other-awesome-lists
 
 * [Yang](https://github.com/YangModels/yang) - YANG modules from standards organizations such as the IETF, open source such as Open Daylight or vendor specific modules
 * [http-prompt](https://github.com/eliangcs/http-prompt) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
+* [tcpreplay](https://github.com/appneta/tcpreplay) - Pcap editing and replay tools for *NIX and Windows 
