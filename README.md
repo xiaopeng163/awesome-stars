@@ -24,6 +24,8 @@ awesome-stars
 
 ## Go
 
+* [go-102](https://github.com/timblair/go-102) - A workshop to give someone their first practical experience of Go
+
 ## Ruby
 
 * [logstash](https://github.com/elastic/logstash) -  transport and process your logs, events, or other data
@@ -41,3 +43,4 @@ awesome-stars
 * [Yang](https://github.com/YangModels/yang) - YANG modules from standards organizations such as the IETF, open source such as Open Daylight or vendor specific modules
 * [http-prompt](https://github.com/eliangcs/http-prompt) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
 * [tcpreplay](https://github.com/appneta/tcpreplay) - Pcap editing and replay tools for *NIX and Windows 
+* [yang-explorer](https://github.com/CiscoDevNet/yang-explorer) - An open-source Yang Browser and RPC Builder Application
