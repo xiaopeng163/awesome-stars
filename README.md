@@ -22,6 +22,7 @@ awesome-stars
 * [libnmap](https://github.com/savon-noir/python-libnmap) - libnmap is a python library to run nmap scans, parse and diff scan results. It supports python 2.6 up to 3.4. It's wonderful.
 * [youtube-dl](https://github.com/rg3/youtube-dl) - Small command-line program to download videos from YouTube.com and other video sites
 * [python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) - The "Python Machine Learning" book code repository and info resource
+* [flack](https://github.com/miguelgrinberg/flack) - Companion code to my PyCon 2016 "Flask at Scale" tutorial session.
 
 ## Go
 
