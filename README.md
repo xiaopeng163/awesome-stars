@@ -30,6 +30,7 @@ awesome-stars
 * [go-102](https://github.com/timblair/go-102) - A workshop to give someone their first practical experience of Go
 * [golang-book](https://github.com/golang-book/bootcamp-examples) - golang book
 * [GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
+* [gobgp](https://github.com/osrg/gobgp) - BGP implemented in the Go Programming Language http://osrg.github.io/gobgp/
 
 ## Ruby
 
