@@ -1,29 +1,30 @@
 # Starred
 
 
+
 - [Content](#starred)
 
 
-    - [C](#C)
-    - [Shell](#Shell)
-    - [Java](#Java)
-    - [Python](#Python)
-    - [JavaScript](#JavaScript)
-    - [VimL](#VimL)
-    - [Objective-C](#Objective-C)
-    - [C++](#C++)
-    - [Haskell](#Haskell)
-    - [CoffeeScript](#CoffeeScript)
-    - [Jupyter Notebook](#Jupyter Notebook)
-    - [HTML](#HTML)
-    - [Puppet](#Puppet)
-    - [Rust](#Rust)
-    - [Others](#Others)
-    - [Go](#Go)
-    - [PHP](#PHP)
-    - [Ruby](#Ruby)
-    - [Erlang](#Erlang)
-    - [CSS](#CSS)
+    - [C](#c)
+    - [Shell](#shell)
+    - [Java](#java)
+    - [Python](#python)
+    - [JavaScript](#javascript)
+    - [VimL](#viml)
+    - [Objective-C](#objective-c)
+    - [C++](#c++)
+    - [Haskell](#haskell)
+    - [CoffeeScript](#coffeescript)
+    - [Jupyter Notebook](#jupyter notebook)
+    - [HTML](#html)
+    - [Puppet](#puppet)
+    - [Rust](#rust)
+    - [Others](#others)
+    - [Go](#go)
+    - [PHP](#php)
+    - [Ruby](#ruby)
+    - [Erlang](#erlang)
+    - [CSS](#css)
 
 ## C
 
