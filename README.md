@@ -6,9 +6,9 @@
 - [Content](#starred)
 
 
-    - [Assembly](#assembly)
-    - [C](#c)
-    - [C++](#c++)
+    - [Assembly](#1)
+    - [C](#2)
+    - [C++](#3)
     - [CSS](#css)
     - [CoffeeScript](#coffeescript)
     - [Erlang](#erlang)
@@ -29,12 +29,12 @@
     - [TypeScript](#typescript)
     - [VimL](#viml)
 
-Assembly
+1.Assembly
 ---------
 
 * [Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 
-C
+2. C
 ---------
 
 * [quagga](https://github.com/opensourcerouting/quagga) - OSR quagga repository - This is a opensourcerouting.org clone of the official Quagga with some extra testing branches. All our changes are scheduled to go into the official Quagga. Please use official GIT of Quagga from git://git.savannah.nongnu.org/quagga.git. See http://www.nongnu.org/quagga/ for the offical Quagga Homepage and mailing lists. master, stable/* and volatile/patch-tracking/* are sync hourly with the official Git, while the other branches are Github local (testing) branches
@@ -54,7 +54,7 @@ C
 * [py-radix](https://github.com/mjschultz/py-radix) - Python radix tree implementation for IPv4 and IPv6 prefix matching.
 * [bird](https://github.com/BIRD/bird) - The BIRD Internet Routing Daemon
 
-C++
+3. C++
 ---------
 
 * [CS_Offer](https://github.com/xuelangZF/CS_Offer) - 深入理解计算机面试中的经典题目！
